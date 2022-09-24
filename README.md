@@ -5,6 +5,9 @@
 ![](https://komarev.com/ghpvc/?username=JeeWaa&color=yellow)
 
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumalNipuna60&langs_count=5&theme=gotham" alt="Nipuna Piyumal | My GitHub Language Stats" />
+
+
 <!--
 **JeeWaa/JeeWaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
