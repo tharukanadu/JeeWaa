@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=I'm+Jeewantha+Fernando)](https://git.io/typing-svg)
 
+![image](https://user-images.githubusercontent.com/92393395/192107359-86c30d0d-8367-496a-a0c6-7e48c4a701bf.png)
+
+
 <!--
 **JeeWaa/JeeWaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
