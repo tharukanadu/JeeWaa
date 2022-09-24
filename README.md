@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=I'm+Jeewantha+Fernando)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://camo.githubusercontent.com/a4eb511b578286db71dc4641e14ccc7a5368d39f89ac8d5522ba7aa9a7d305b2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d79656c6c6f77677265656e" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 <!--
