@@ -8,16 +8,16 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<!--!<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeewaa&label=Profile%20views&color=0e75b6&style=flat" alt="jeewaa" /> </p>-->
-[](https://komarev.com/ghpvc/?username=JeeWaa&color=yellow)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeewaa&label=Profile%20views&color=0e75b6&style=flat" alt="jeewaa" /> </p>
+<!--![](https://komarev.com/ghpvc/?username=JeeWaa&color=yellow)-->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning `Computer Science`
-
-- 📫 How to reach me `jeewa@gmail.com`
-
-- ⚡ Fun fact `I am funny`
+- 👨‍🎓 I'm `Studying`.
+- 🌱 I’m currently learning `Computer Science`.
+- 💜 Interests : `UIUX Designing` & `IoT`.
+- 📫 How to reach me: `jeewa@gmail.com`
+- ⚡ Fun fact: `Gaming`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,8 +30,8 @@
 
 
 <p align="center">
-<img alt="Jeewantha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true"/>
-<img height="165px" title="streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=JeeWaa&theme=monokai-metallian&hide_border=true"/>
+<img height="200px" alt="Jeewantha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true"/>
+<img height="200px" title="streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=JeeWaa&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 
