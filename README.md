@@ -1,20 +1,15 @@
 ### Hi there 👋
 
 
-
-![](https://komarev.com/ghpvc/?username=JeeWaa&color=yellow)
-
-
-  
   
 
 <h1 align="center">
-  Hi 👋, I'm 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=32&duration=4000&pause=2000&color=F7F7F7&vCenter=true&width=435&height=28&lines=Jeewantha+Fernando" alt="Typing SVG" /></a>
+  Hi 👋, I'm Jeewantha Fernando
 </h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeewaa&label=Profile%20views&color=0e75b6&style=flat" alt="jeewaa" /> </p>
+<!--!<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeewaa&label=Profile%20views&color=0e75b6&style=flat" alt="jeewaa" /> </p>-->
+[](https://komarev.com/ghpvc/?username=JeeWaa&color=yellow)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
