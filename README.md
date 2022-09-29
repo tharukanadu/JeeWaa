@@ -93,9 +93,8 @@
 
 
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamodhpasindu&&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=111A28">|<img height="180em" alt="Chamodh Pasindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodhpasindu&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=111A28&hide=Jupyter%20Notebook"/>
-</p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeWaa&&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=111A28">|<img height="180em" alt="Jeewantha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=111A28&hide=Jupyter%20Notebook"/>
 |---|---|
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JeeWaa&theme=nightowl&hide_border=true)<br/>|![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
