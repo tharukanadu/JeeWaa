@@ -16,11 +16,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning `Computer Science`
 
-- 📫 How to reach me **jeewa@gmail.com**
+- 📫 How to reach me `jeewa@gmail.com`
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact `I am funny`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<img alt="Abhishek Ashinsa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true"/>
+<img alt="Jeewantha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true"/>
 <img height="165px" title="streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=JeeWaa&theme=monokai-metallian&hide_border=true"/>
 </p>
 
