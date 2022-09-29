@@ -30,8 +30,8 @@
 
 
 <p align="center">
-<img height="200px" alt="Jeewantha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true"/>
-<img height="200px" title="streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=JeeWaa&theme=monokai-metallian&hide_border=true"/>
+<img height="180px" alt="Jeewantha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true"/>
+<img height="180px" title="streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=JeeWaa&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 
