@@ -91,17 +91,19 @@
 <img src="https://github-readme-stats.vercel.app/api?username=KasunUmesh&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=KasunUmesh&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
 
-<a href="https://github.com/tharushiwelarathna/github-readme-stats"><img alt="Tharushi Welathana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tharushiwelarathna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>|<a href="https://github.com/tharushiwelarathna/github-readme-stats"><img alt="Tharushi Welarathna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushiwelarathna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-|---|---|
+
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamodhpasindu&&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=111A28">|<img height="180em" alt="Chamodh Pasindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodhpasindu&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=111A28&hide=Jupyter%20Notebook"/>
-|---|---|
 </p>
+|---|---|
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JeeWaa&theme=nightowl&hide_border=true)<br/>|![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 |---|---|
 
+
+<a href="https://github.com/tharushiwelarathna/github-readme-stats"><img alt="Tharushi Welathana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tharushiwelarathna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>|<a href="https://github.com/tharushiwelarathna/github-readme-stats"><img alt="Tharushi Welarathna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushiwelarathna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+|---|---|
 
 
 
