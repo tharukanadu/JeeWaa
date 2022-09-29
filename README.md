@@ -9,7 +9,7 @@
   
 
 <h1 align="center">
-  Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=32&pause=1000&color=F7F7F7&vCenter=true&multiline=true&width=435&lines=Jeewantha+Fernando" alt="Typing SVG" /></a>
+  <a>Hi 👋, I'm </a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=32&pause=1000&color=F7F7F7&vCenter=true&multiline=true&width=435&lines=Jeewantha+Fernando" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
