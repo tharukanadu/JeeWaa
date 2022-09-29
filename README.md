@@ -72,6 +72,19 @@
 
 
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamodhpasindu&&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=111A28">
+<img height="180em" alt="Chamodh Pasindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodhpasindu&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=111A28&hide=Jupyter%20Notebook" />
+</p>
+
+
+
+<p align="center">
+<a href="https://profile.codersrank.io/user/pazindushane"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pazindushane&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
+</p>
+
+
+
 
 
   
