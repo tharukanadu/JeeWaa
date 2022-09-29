@@ -119,6 +119,9 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=JeeWaa&theme=monokai-metallian&hide_border=true"/>
 </a>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=JeeWaa&theme=nightowl&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 
