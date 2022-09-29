@@ -122,12 +122,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <p>
-<a marginLeft="100%" href="https://github.com/AbhiWPA/github-readme-stats"><img alt="Abhishek Ashinsa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" /></a>
+<a href="https://github.com/AbhiWPA/github-readme-stats"><img alt="Abhishek Ashinsa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" /></a>
 <img height="165px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=JeeWaa&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 
-<a href="https://github.com/AbhiWPA/github-readme-stats"><img alt="Abhishek Ashinsa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" /></a>|<img width="450px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=JeeWaa&theme=monokai-metallian&hide_border=true"/>
+<a href="https://github.com/AbhiWPA/github-readme-stats"><img alt="Abhishek Ashinsa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true" /></a>
+<img width="450px" marginLeft="100%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=JeeWaa&theme=monokai-metallian&hide_border=true"/>
 
 
 
