@@ -79,6 +79,21 @@
 
 
 
+
+<br/>
+  <a href="https://github.com/tharushiwelarathna/github-readme-stats"><img alt="Tharushi Welathana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tharushiwelarathna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tharushiwelarathna/github-readme-stats"><img alt="Tharushi Welarathna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushiwelarathna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=KasunUmesh&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=KasunUmesh&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
+|---|---|
+
+
+
+
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeeWaa&theme=github_dark"/> </p>
 
 
