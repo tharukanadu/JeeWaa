@@ -5,7 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=JeeWaa&color=yellow)
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeWaa&langs_count=5&theme=gotham" alt="Jeewantha Fernando | My GitHub Language Stats" />
   
   
   
